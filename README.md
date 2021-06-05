@@ -20,19 +20,6 @@
 7. Lighlty oil the top and bottom of each ball and place them in the center of a round container (helps keep the round shape)
 8. Cover with lightly-oiled cling-wrap
 9. Let rest in the fridge for (preferably) 3 days. They can also be frozen for up to 3 months
-10. Remove from the fridge 2-4 hours before shaping
-11. Preheat your oven to the highest temperature possible for an hour (550f in my case) and if you have a pizza stone/steel, place it in the oven
-12. Heavily flour your work surface
-13. Place your dough ball onto the surface, and flip it over once or twice to coat it with flour
-14. Begin forming your crust all around the edges of the pizza with your fingers
-15. Once your dough has been stretched enough by hand, take your dough and place it on top of your knuckles
-16. Begin rotating the the dough, making sure that your knuckles stay near the edge of the dough
-17. Once your dough is the appropriate size, place it onto a heavily floured pizza peel
-18. Laddle your sauce onto the dough and give your peel a jiggle to the left and right
-19. Grate some fresh parmesan onto the sauce
-20. Add your (shredded by hand) full-fat low-moisture Mozzarella and some Provolone on top (I do a 60/40 mix) and once again, jiggle the peel, making sure that the pizza isn't sticking
-21. Add remaining toppings like pepperoni, and launch the pizza
-22. At around 550f, the pizza cooks in 6-8 minutes
 
 ### Sauce
 #### Ingredients:
@@ -47,6 +34,26 @@
 1. Combine all ingredients together in a bowl, adding each spice to taste
 2. Use 1-2 laddle's-worth per pie, making sure to spread evenly to the crust-shape
 3. Freeze the remainder for up to ~3 months. To defrost, simply place it in the fridge for ~24 hours
+
+### Pizza Prep
+#### Ingredients:
+- Full-fat low-moisture mozzarella (Balls are preferred, then either shred it by hand / food processor or slice it very thin)
+- Provolone (shredded by hand / food processor or thinly sliced)
+
+#### Instructions:
+1. Remove from the fridge 2-4 hours before shaping
+2. Preheat your oven to the highest temperature possible for an hour (550f in my case) and if you have a pizza stone/steel, place it in the oven
+3. Heavily flour your work surface
+4. Place your dough ball onto the surface, and flip it over once or twice to coat it with flour
+5. Begin forming your crust all around the edges of the pizza with your fingers
+6. Once your dough has been stretched enough by hand, take your dough and place it on top of your knuckles
+7. Begin rotating the the dough, making sure that your knuckles stay near the edge of the dough
+8. Once your dough is the appropriate size, place it onto a heavily floured pizza peel
+9. Laddle your sauce onto the dough and give your peel a jiggle to the left and right
+10. Grate some fresh parmesan onto the sauce
+11. Add your (shredded by hand) full-fat low-moisture Mozzarella and some Provolone on top (I do a 60/40 mix) and once again, jiggle the peel, making sure that the pizza isn't sticking
+12. Add remaining toppings like pepperoni, and launch the pizza
+13. At around 550f, the pizza cooks in 6-8 minutes
 
 ## Neapolitan
 ### Dough

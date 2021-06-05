@@ -38,7 +38,8 @@
 ### Pizza Prep
 #### Ingredients:
 - Full-fat low-moisture mozzarella (Balls are preferred, then either shred it by hand / food processor or slice it very thin)
-- Provolone (shredded by hand / food processor or thinly sliced)
+- Provolone (shredded by hand / food processor or thinly sliced) (optional, I find a ratio of 60/40 Mozz/Provolone is a good fat balance)
+- Parmesan (optional, adds a bit more depth)
 
 #### Instructions:
 1. Remove from the fridge 2-4 hours before shaping

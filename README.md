@@ -59,9 +59,10 @@
 ## Neapolitan
 ### Dough
 #### Ingredients:
+- Caputo Tipo '00 Flour (or other high-protein flours)
 
 #### Instructions:
-
+https://github.com/hendricius/pizza-dough
 ### Sauce
 #### Ingredients:
 
